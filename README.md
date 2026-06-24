@@ -6,7 +6,7 @@ This repository contains the core assignments for the Machine Learning module.
 
 ## **1. Simple Linear Regression: Delivery Logistics**
 *   **Jupyter Notebook:** [Assignment_1_Simple_Linear_Regression](https://github.com/AIEngr/ML_Assignments/blob/main/Assignment_Simple_Linear_Regression.ipynb)
-*   **Detailed Project Documentation:** [Simple_LR](https://github.com/AIEngr/ML_Assignments/blob/main/Assignment_Simple_Linear_Regression.md))
+*   **Detailed Project Documentation:** [Simple_LR](https://github.com/AIEngr/ML_Assignments/blob/main/Assignment_Simple_Linear_Regression.md)
 
 ---
 
